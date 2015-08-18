@@ -12,7 +12,7 @@ This study area includes four wilderness areas located in the Roosevelt National
 IPython notebook `FINAL NOTEBOOK NAME` contains the groups final notebook.
 
 ###Data
-Kaggle datasets are contained in the `data` directory.
+Kaggle datasets are `train.csv` and `test.csv`
 
 ###Preliminary Analysis
 EDA, preliminary models, and other miscellaneous notebooks contained in the `working` folder.
