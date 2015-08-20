@@ -9,7 +9,7 @@ In this competition you are asked to predict the forest cover type (the predomin
 This study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. These areas represent forests with minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices.
 
 ###Final Notebook
-IPython notebook `FINAL NOTEBOOK NAME` contains the groups final notebook.
+The IPython notebook `W207_Final_Consolidated_V3.ipynb` is the final project.
 
 ###Data
 Kaggle datasets are `train.csv` and `test.csv`
